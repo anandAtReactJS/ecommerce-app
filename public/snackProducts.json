@@ -1,0 +1,122 @@
+[
+    {
+        "id":"100",
+        "name":"GoodLife Milk",
+        "price":"25.50",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/100022552_1-haldirams-namkeen-bhujia-sev.jpg"
+    },
+    {
+        "id":"101",
+        "name":"MilkyMist Curd",
+        "price":"23",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/264454_1-haldirams-namkeen-aloo-bhujia.jpg"
+    },
+    {
+        "id":"102",
+        "name":"AmulButter-Pasteurized",
+        "price":"490",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/40100617_8-bingo-potato-chips-original-style-chilli-sprinkled.jpg"
+    },
+    {
+        "id":"103",
+        "name":"AmulMasti Buttermilk",
+        "price":"28",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/100022551_1-haldirams-namkeen-moong-dal.jpg"
+    },
+    {
+        "id":"104",
+        "name":"Whole Wheat Bread",
+        "price":"32",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/102745_12-lays-potato-chips-american-style-cream-onion-flavour.jpg"
+    },
+    {
+        "id":"105",
+        "name":"Ladies' Fingers (Loose)",
+        "price":"45",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1203943_3-kurkure-namkeen-puffcornyummy-cheese.jpg"
+    },
+    {
+        "id":"106",
+        "name":"Cauliflower",
+        "price":"39",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/40172829_7-bingo-mad-angles-chips-achaari-masti.jpg"
+    },
+    {
+        "id":"107",
+        "name":"Beans - Haricot (Loose)",
+        "price":"45",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1209797_3-tasties-namkeen-all-in-one-mixture.jpg"
+    },
+    {
+        "id":"108",
+        "name":"Banana - Yelakki",
+        "price":"35",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1215171_3-bingo-tedhe-medhe-snacks-with-corn-rice-dal-masala-tadka.jpg"
+    },
+    {
+        "id":"109",
+        "name":"Cucumber (Loose)",
+        "price":"23",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1212774_3-lays-potato-chips-indias-magic-masala.jpg"
+    },
+    {
+        "id":"110",
+        "name":"Pomegranate (Loose)",
+        "price":"129",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1209798_3-tasties-namkeen-tasty-nut-masala-coated.jpg"
+    },
+    {
+        "id":"111",
+        "name":"Apple-Washington,Regular",
+        "price":"129",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/20002982_1-haldirams-namkeen-salted-peanuts.jpg"
+    },
+    {
+        "id":"112",
+        "name":"Lemon(Loose)",
+        "price":"28",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/40123671_6-townbus-namkeen-madras-mixture.jpg"
+    },
+    {
+        "id":"113",
+        "name":"Cabbage (Loose)",
+        "price":"14",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/20004456_1-haldirams-instant-bhel.jpg"
+    },
+    {
+        "id":"114",
+        "name":"Watermelon-Small",
+        "price":"39",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/263125_2-haldirams-namkeen-khatta-meetha.jpg"
+    },
+    {
+        "id":"115",
+        "name":"Papaya-Medium",
+        "price":"49",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/20002446_8-haldirams-namkeen-tasty-nuts.jpg"
+    },
+    {
+        "id":"116",
+        "name":"Baby Orange(Loose)",
+        "price":"55",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/294278_18-lays-potato-chips-hot-sweet-chilli-flavour-best-quality.jpg"
+    },
+    {
+        "id":"117",
+        "name":"Chilli-Medium(Loose)",
+        "price":"49",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1211884_1-piknik-classic-tomato-chilli.jpg"
+    },
+    {
+        "id":"118",
+        "name":"Amla (Loose)",
+        "price":"69",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1204024_5-bingo-potato-chips-original-style-salt-sprinkled.jpg"
+    },
+    {
+        "id":"119",
+        "name":"Blueberry",
+        "price":"149",
+        "pimg":"https://www.bigbasket.com/media/uploads/p/s/1212518_4-lays-potato-chips-classic-salted.jpg"
+    }
+]
